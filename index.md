@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages of Chiho Song
 
+# Chiho Song's First CS193 Homework
+
+- We have great instructor
+- One class per week
+- I can learn knowledges related computer science
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
